@@ -1,10 +1,24 @@
 # To Do
 
-**[Submit a suggestion, issue or contribute](https://github.com/OldManUmby/DND.SRD.Wiki/issues)**
+- [ ] Change logo from original SRD Wiki
+- [ ] Rename Monsters to Creatures
+- [ ] Rename Races to Species
+- [ ] Unify the Monsters(Alt) and Monsters folders
+- [ ] Update material to reflect 5.2.1 SRD
+- [ ] Remaster for mkdocs with torillic or other theme.
+- [ ] Add section for homebrew
+- [ ] Learn how to create releases.
+
+**[Submit a suggestion, issue or contribute](https://github.com/sycarion/5e-2024-SRD/issues)**
 
 ---
 
 # Completed
+
+## June 18th, 2025
+
+- [x] Forked from Old Man Umby and updated introduction and goals.
+
 
 ## June 1st, 2023
 
